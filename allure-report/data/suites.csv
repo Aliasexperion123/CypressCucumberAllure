@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 04 16:50:58 IST 2023","Thu May 04 16:50:59 IST 2023","417","","APITest","","","","Get georest users",""
+"failed","Thu May 04 16:52:00 IST 2023","Thu May 04 16:52:45 IST 2023","45181","","NewTour Verification","","","","NewTour Login",""
+"failed","Thu May 04 16:51:05 IST 2023","Thu May 04 16:52:00 IST 2023","54688","","NewTour Verification","","","","NewTour Start application",""
